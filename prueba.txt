@@ -3,3 +3,8 @@ Este es una prueba de Texto, probando Git , probando GIT INIT, GIT ADD, GIT MERG
 Este es un segundo comentario donde agregaremos mas comentarios sobre Git, es un sistema control de versiones, un software que nos permite registrar todo el historial de cambios de un proyecto.
 
 Este es un tercer comentario de Git. Nos sirve para trabajar en equipo de una manera mas simple y optimizado.
+
+
+CSS
+
+Este un primero comentario sobre Css, CSS es un lenguaje de hojas de estilos creado para controlar el aspecto o presentación de los documentos electrónicos definidos con HTML y XHTML.
