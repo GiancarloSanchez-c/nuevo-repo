@@ -1,1 +1,3 @@
 Este es una prueba de Texto, probando Git , probando GIT INIT, GIT ADD, GIT MERGE, GIT COMMIT, GIR LOG , GIT LOG --ONLINE.
+
+Este es un segundo comentario donde agregaremos mas comentarios sobre Git, es un sistema control de versiones, un software que nos permite registrar todo el historial de cambios de un proyecto.
